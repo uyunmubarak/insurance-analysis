@@ -26,11 +26,11 @@ Melalui project ini, dilakukan analisa variable-variabel yang memiliki hubungan 
 <img src="corr.png" width="1000"/>
 
 **5. Hypothesis Testing**
-Tagihan kesehatan perokok lebih tinggi daripada tagihan kesehatan non perokok.
+- Tagihan kesehatan perokok lebih tinggi daripada tagihan kesehatan non perokok.
 <img src="hypo1.png" width="1000"/>
-Tagihan kesehatan dengan BMI diatas 25 lebih tinggi daripada tagihan kesehatan dengan BMI dibawah 25.
+- Tagihan kesehatan dengan BMI diatas 25 lebih tinggi daripada tagihan kesehatan dengan BMI dibawah 25.
 <img src="hypo2.png" width="1000"/>
-BMI dari laki-laki dan perempuan sama/tidak berbeda.
+- BMI dari laki-laki dan perempuan sama/tidak berbeda.
 <img src="hypo3.png" width="1000"/>
-Proporsi perokok sama di tiap region.
+- Proporsi perokok sama di tiap region.
 <img src="hypo4.png" width="1000"/>
