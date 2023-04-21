@@ -16,7 +16,7 @@ Melalui project ini, dilakukan analisa variable-variabel yang memiliki hubungan 
 
 **2. Categorical Variables Analysis**
 - Perempuan memiliki tagihan kesehatan paling tinggi dibandingkan laki-laki. Hal ini dikarenakan proporsi non perokok lebih tinggi dibandingkan perokok.
-- Peluang seseorang adalah perempuan diketahui dia adalah perokokyaitu 0.41 sedangkan peluang seseorang adalah laki-laki diketahui dia adalah perokok yaitu 0.58. Hal ini menunjukkan  bahwa jika diketahui ada seseorang perokok maka peluang bahwa seseorang tersebut adalah laki-laki lebih tinggi daripada perempuan.
+- Peluang seseorang adalah perempuan diketahui dia adalah perokok yaitu 0.41 sedangkan peluang seseorang adalah laki-laki diketahui dia adalah perokok yaitu 0.58. Hal ini menunjukkan  bahwa jika diketahui ada seseorang perokok maka peluang bahwa seseorang tersebut adalah laki-laki lebih tinggi daripada perempuan.
 
 **3. Continuous Variables Analysis**
 - Peluang seseorang tagihan kesehatannya diatas 16.7k diketahui bahwa dia adalah seorang perokok adalah 0.92.
